@@ -1,0 +1,28 @@
+Entity,Year,Plastic mass input from rivers (tonnes),Type
+Africa,2015,109200,Region
+Asia,2015,1210000,Region
+Australia-Pacific,2015,300,Region
+Europe,2015,3900,Region
+South America,2015,67400,Region
+Central & North America,2015,13400,Region
+"Amazon (Brazil, Peru, Colombia, Ecuador)",2015,38900,River
+Tamsui (Taiwan),2015,14700,River
+Xi (China),2015,73900,River
+Yangtze (China),2015,333000,River
+Zhujiang (China),2015,13600,River
+Brantas (Indonesia),2015,38900,River
+"Cross (Nigeria, Cameroon)",2015,40300,River
+Dong (China),2015,19100,River
+"Ganges (India, Bangladesh)",2015,115000,River
+Hanjiang (China),2015,12900,River
+Huangpu (China),2015,40800,River
+Imo (Nigeria),2015,21500,River
+Irrawaddy (Myanmar),2015,35300,River
+Kwa Ibo (Nigeria),2015,11900,River
+Magdalena (Colombia),2015,16700,River
+"Mekong (Thailand, Cambodia, Laos, China, Myanmar, Vietnam)",2015,22800,River
+Pasig (Philippines),2015,38800,River
+Progo (Indonesia),2015,12800,River
+Serayu (Indonesia),2015,17100,River
+Solo (Indonesia),2015,32500,River
+World,2015,1404200,World

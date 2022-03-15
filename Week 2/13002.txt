@@ -1,0 +1,4 @@
+Invoice No: 13002
+Customer Name: Lighthouse Entertainment
+Date: 13 Jan 2020
+Invoice Amount: $45.60
